@@ -1,2 +1,2 @@
 run:
-	flask --app main.py run
+	python main.py
